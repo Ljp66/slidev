@@ -1,0 +1,22 @@
+{
+  "name": "learn-slidev",
+  "private": true,
+  "scripts": {
+    "build": "slidev build",
+    "dev": "slidev --open",
+    "export": "slidev export"
+  },
+  "dependencies": {
+    "@slidev/cli": "^0.38.4",
+    "@slidev/theme-default": "*",
+    "@slidev/theme-seriph": "*",
+    "@slidev/theme-shibainu": "^0.0.2",
+    "sass": "^1.63.6",
+    "slidev-theme-penguin": "^1.7.1",
+    "vite-svg-loader": "^4.0.0"
+  },
+  "devDependencies": {
+    "@iconify-json/logos": "^1.1.33",
+    "playwright-chromium": "^1.35.1"
+  }
+}
