@@ -7,7 +7,6 @@ aspectRatio: '16/9'
 themeConfig:
   logoHeader: '/logo.svg'
 css: unocss
-download: true
 ---
 
 # 自我介绍
